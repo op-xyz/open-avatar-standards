@@ -11,7 +11,7 @@ Welcome to the Open Avatar Standards Working Group repository. We aim to enable 
 
 ## Stakeholders & Contributors
 
-<a href="https://cr3labs.com" target="_blank"><img src="assets/cr3.png" alt="CR3 Labs Logo" width="75" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://other.page" target="_blank"><img src="assets/other-page.png" alt="Other Page Logo" width="75"/></a>
+<a href="https://cr3labs.com" target="_blank"><img src="assets/cr3.png" alt="CR3 Labs Logo" width="75" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://other.page" target="_blank"><img src="assets/other-page.png" alt="Other Page Logo" width="75"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://futureverse.com" target="_blank"><img src="assets/futureverse.png" alt="Futureverse Logo" width="75"/></a>
 
 
 
