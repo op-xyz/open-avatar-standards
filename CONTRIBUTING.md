@@ -2,7 +2,7 @@
 
 We welcome platforms, developers, researchers, and creators to help shape avatar standards for the open metaverse.
 
-To be listed as an official contributor please contact us at **[hello@other.page](mailto:hello@other.page)**
+To be listed as an official contributor please **[contact us](https://docs.google.com/forms/d/e/1FAIpQLSfWO8W3JbxhM41cvwMKqIELX7ByjIH-trephBaK_cVPlNgTkg/viewform)**
 
 ## How to Contribute
 
